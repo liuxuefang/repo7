@@ -7,4 +7,7 @@ public class HelloWorld {
         System.out.println("4444");
         System.out.println("5555");
     }
+    public void sayhello (){
+        System.out.println("aaa");
+    }
 }
