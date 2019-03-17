@@ -9,6 +9,8 @@ public class HelloWorld {
     }
     public void sayhello (){
         System.out.println("aaa");
+        System.out.println("cc");
+        System.out.println("nnnn");
     }
     public void sayhello2 (){
         System.out.println("bbb");
